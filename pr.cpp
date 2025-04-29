@@ -12,8 +12,11 @@ void foo2(){
 void foo3(){
     //functial 3
 }
-int 
-main()
+void foo4(){
+    //functial 4
+}
+
+int main()
 {
     setlocale(LC_ALL,"rus");
     foo1();
@@ -21,4 +24,5 @@ main()
     foo3();
     foo4();
     cout<< "все фукции выполнены";
+    return 0;
 }
