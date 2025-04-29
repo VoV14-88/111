@@ -7,8 +7,13 @@ void foo1(){
 
 void foo2(){
     //fuctial 3
+
 }
-int main()
+void foo3(){
+    //functial 3
+}
+int 
+main()
 {
     setlocale(LC_ALL,"rus");
     foo1();
